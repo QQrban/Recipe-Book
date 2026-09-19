@@ -1,1 +1,3 @@
-conflict
+# Recipes
+
+- Pancakes.
